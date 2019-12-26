@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Kishore Thamilvanan\\AndroidStudioProjects\\BasicCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Kishore Thamilvanan\\.android\\build-cache\\890b49ff3c1c91af277f9ebd2690ec725bc92020\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kishore Thamilvanan\\AndroidStudioProjects\\BasicCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Kishore Thamilvanan\\.android\\build-cache\\890b49ff3c1c91af277f9ebd2690ec725bc92020\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kishore Thamilvanan\\AndroidStudioProjects\\BasicCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Kishore Thamilvanan\\.android\\build-cache\\890b49ff3c1c91af277f9ebd2690ec725bc92020\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kishore Thamilvanan\\AndroidStudioProjects\\BasicCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Kishore Thamilvanan\\.android\\build-cache\\890b49ff3c1c91af277f9ebd2690ec725bc92020\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
